@@ -1,1 +1,1 @@
-# bluepax.github.io
+# bluepax
